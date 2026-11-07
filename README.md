@@ -1,16 +1,72 @@
-## Hi there 👋
+Hi, I'm Ananya D 👋
 
-<!--
-**gowdaanudgowda-oss/gowdaanudgowda-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 Information Science and Engineering Undergraduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+💻 Aspiring Software Developer | Python | Java | Full Stack Development
+
+
+About Me
+
+
+
+
+🎓 Engineering student passionate about software development.
+
+
+🌱 Currently learning Python, Java and Data Structures & Algorithms.
+
+
+🔭 Working on an AI-Powered Smart City Citizen Services & Governance Platform.
+
+
+💡 Interested in backend development and building real-world applications.
+
+
+🎯 Preparing for software engineering placements.
+
+
+
+
+Technical Skills
+
+
+Languages: Python, Java, JavaScript
+
+
+Backend: Flask, REST APIs
+
+
+Frontend: HTML, CSS, JavaScript
+
+
+Database: MySQL
+
+
+Tools: Git, GitHub, VS Code
+
+
+Projects
+
+
+
+
+🏙️ AI-Powered Smart City Citizen Services & Governance Platform (In Progress)
+
+
+🐍 Python Programming & Practice
+
+
+
+
+Connect With Me
+
+
+
+
+LinkedIn: https://www.linkedin.com/in/ananya-d-101091301/
+
+
+
+
